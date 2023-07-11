@@ -1,0 +1,17 @@
+body {
+    background-color:blue;
+    color:white;
+}
+
+.nav-link {
+    padding: 0;
+}
+
+#table-data {
+    border: 1px solid #000000;
+}
+
+li {    
+    background-color: aqua;
+    color: black;
+}
